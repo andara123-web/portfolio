@@ -79,6 +79,12 @@ a {
   cursor: pointer;
   transition: 0.2s ease-in-out;
 }
+.hero-role {
+  font-size: 1.2rem;
+  font-weight: 500;
+  color: #555;
+  margin-bottom: 1rem;
+}
 
 .btn:hover {
   box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
@@ -357,6 +363,7 @@ nav ul li a {
 .education-years {
   margin-bottom: 3rem;
 }
+
 
 /* The dot on the line */
 .education .line div:before {

@@ -1,0 +1,301 @@
+date;month;platform;equipment_id;equipment_type;issue_type;severity;maintenance_type;downtime_hours;maintenance_cost;status;technician_team;sparepart_used;next_pm_date
+01/01/2026;Jan;Platform Charlie;CRN-002;Crane;Overload Alarm;Critical;Corrective;24.9;22251000;In Progress;Team D;Limit Switch;06/02/2026
+01/01/2026;Jan;Platform Alpha;HVC-002;HVAC;Sensor Error;Medium;Corrective;4.8;2839000;Completed;Team B;Temperature Sensor;15/02/2026
+02/01/2026;Jan;Platform Bravo;GEN-003;Generator;Overheating;Low;Preventive;1.9;719000;Completed;Team D;Fuel Filter;31/01/2026
+04/01/2026;Jan;Platform Bravo;DSL-001;Diesel Engine;Oil Leak;Critical;Preventive;31.6;22762000;Completed;Team D;Oil Filter;19/02/2026
+05/01/2026;Jan;Platform Alpha;GEN-002;Generator;Battery Failure;Low;Corrective;1.6;437000;Completed;Team B;Fuel Filter;19/02/2026
+05/01/2026;Jan;Platform Bravo;DSL-001;Diesel Engine;Cooling System Issue;Low;Preventive;3.8;1392000;Completed;Team D;Glow Plug;03/02/2026
+06/01/2026;Jan;Platform Charlie;DSL-002;Diesel Engine;Hard Starting;High;Preventive;17.4;10891000;Completed;Team A;Glow Plug;01/02/2026
+06/01/2026;Jan;Platform Alpha;FRP-001;Fire Pump;Valve Issue;Medium;Corrective;9.8;4641000;Completed;Team D;Pressure Gauge;18/02/2026
+08/01/2026;Jan;Platform Alpha;DSL-001;Diesel Engine;Hard Starting;High;Corrective;21.2;10574000;Completed;Team C;Radiator Hose;05/03/2026
+08/01/2026;Jan;Platform Charlie;CRN-002;Crane;Hydraulic Leak;Medium;Preventive;4.4;1883000;Completed;Team B;Wire Rope;27/02/2026
+08/01/2026;Jan;Platform Charlie;DSL-002;Diesel Engine;Hard Starting;Medium;Corrective;7.3;3843000;Completed;Team D;Fuel Filter;28/02/2026
+09/01/2026;Jan;Platform Alpha;HVC-001;HVAC;Filter Clogged;Low;Corrective;1.7;726000;Completed;Team B;Fan Belt;09/03/2026
+09/01/2026;Jan;Platform Bravo;DSL-002;Diesel Engine;Cooling System Issue;High;Corrective;21.4;17767000;Pending;Team D;Fuel Filter;15/02/2026
+09/01/2026;Jan;Platform Charlie;CRN-001;Crane;Wire Rope Wear;Medium;Preventive;9.7;3921000;Completed;Team D;Brake Pad;08/03/2026
+12/01/2026;Jan;Platform Bravo;HVC-002;HVAC;Filter Clogged;Medium;Corrective;4.0;2141000;Completed;Team D;Blower Motor;10/02/2026
+12/01/2026;Jan;Platform Bravo;CRN-001;Crane;Brake System Issue;Medium;Preventive;7.2;4106000;Completed;Team B;Limit Switch;06/03/2026
+12/01/2026;Jan;Platform Alpha;HVC-002;HVAC;Filter Clogged;High;Corrective;11.3;5486000;Completed;Team C;Fan Belt;13/02/2026
+12/01/2026;Jan;Platform Charlie;DSL-002;Diesel Engine;Hard Starting;Low;Preventive;3.5;930000;Completed;Team A;Radiator Hose;11/03/2026
+13/01/2026;Jan;Platform Bravo;FRP-001;Fire Pump;Valve Issue;Low;Corrective;2.3;752000;Completed;Team B;Pressure Gauge;10/02/2026
+15/01/2026;Jan;Platform Bravo;SPR-002;Separator;Clogging;Medium;Preventive;6.0;2839000;Completed;Team A;Level Sensor;26/02/2026
+16/01/2026;Jan;Platform Charlie;LFB-002;Lifeboat;Fuel Line Issue;Medium;Corrective;7.8;2641000;In Progress;Team B;Battery;19/02/2026
+16/01/2026;Jan;Platform Alpha;GEN-002;Generator;Battery Failure;Medium;Corrective;6.0;4013000;In Progress;Team C;Fuel Filter;15/03/2026
+17/01/2026;Jan;Platform Alpha;PMP-002;Pump;Bearing Failure;Critical;Corrective;31.5;27109000;Completed;Team A;Motor Relay;27/02/2026
+17/01/2026;Jan;Platform Charlie;GEN-002;Generator;Overheating;High;Preventive;14.5;5670000;Completed;Team D;Fuel Filter;15/02/2026
+20/01/2026;Jan;Platform Alpha;CTL-001;Control Panel;Electrical Fault;High;Corrective;22.5;10631000;In Progress;Team C;Sensor Module;11/03/2026
+20/01/2026;Jan;Platform Alpha;HVC-002;HVAC;Filter Clogged;Low;Corrective;1.9;805000;Completed;Team C;Air Filter;07/02/2026
+21/01/2026;Jan;Platform Charlie;HVC-001;HVAC;Fan Motor Issue;Low;Preventive;2.5;910000;Completed;Team D;Temperature Sensor;14/03/2026
+22/01/2026;Jan;Platform Bravo;CMP-001;Compressor;Vibration;High;Preventive;13.9;9615000;Completed;Team C;Oil Filter;14/03/2026
+22/01/2026;Jan;Platform Bravo;FRP-002;Fire Pump;Valve Issue;High;Corrective;15.0;10130000;Pending;Team B;Valve Set;20/03/2026
+22/01/2026;Jan;Platform Bravo;SPR-001;Separator;Pressure Imbalance;High;Corrective;22.5;16812000;Completed;Team C;Level Sensor;15/02/2026
+22/01/2026;Jan;Platform Charlie;CTL-002;Control Panel;Sensor Failure;Low;Preventive;3.1;1669000;In Progress;Team D;Relay;14/02/2026
+23/01/2026;Jan;Platform Alpha;DSL-002;Diesel Engine;Cooling System Issue;Low;Preventive;1.1;399000;Pending;Team C;Oil Filter;08/03/2026
+23/01/2026;Jan;Platform Alpha;HVC-001;HVAC;Filter Clogged;Medium;Corrective;9.2;4669000;In Progress;Team C;Blower Motor;27/02/2026
+24/01/2026;Jan;Platform Bravo;CRN-001;Crane;Wire Rope Wear;Medium;Preventive;8.8;5473000;Completed;Team B;Hydraulic Hose;15/02/2026
+24/01/2026;Jan;Platform Bravo;LFB-002;Lifeboat;Fuel Line Issue;Medium;Preventive;5.2;1998000;Completed;Team C;Engine Oil;23/03/2026
+26/01/2026;Jan;Platform Bravo;LFB-002;Lifeboat;Battery Weak;Medium;Preventive;9.3;3869000;Completed;Team D;Engine Oil;10/02/2026
+26/01/2026;Jan;Platform Alpha;LFB-001;Lifeboat;Battery Weak;Low;Corrective;2.4;873000;Completed;Team A;Safety Hook;25/02/2026
+26/01/2026;Jan;Platform Alpha;CMP-002;Compressor;Pressure Drop;Low;Preventive;1.8;835000;Completed;Team C;Pressure Valve;11/02/2026
+26/01/2026;Jan;Platform Bravo;SPR-002;Separator;Pressure Imbalance;Medium;Corrective;9.2;3505000;Completed;Team D;Level Sensor;25/02/2026
+27/01/2026;Jan;Platform Bravo;PMP-002;Pump;Low Pressure;Medium;Corrective;5.1;3283000;Completed;Team D;Bearing;22/03/2026
+29/01/2026;Jan;Platform Bravo;HVC-001;HVAC;Filter Clogged;Critical;Corrective;29.2;16490000;In Progress;Team D;Air Filter;18/03/2026
+30/01/2026;Jan;Platform Bravo;DSL-001;Diesel Engine;Hard Starting;Medium;Corrective;8.5;5640000;Completed;Team C;Oil Filter;24/02/2026
+30/01/2026;Jan;Platform Charlie;DSL-002;Diesel Engine;Fuel Filter Clogged;Medium;Corrective;7.8;3763000;Completed;Team B;Glow Plug;14/03/2026
+01/02/2026;Feb;Platform Bravo;CRN-002;Crane;Hydraulic Leak;Critical;Preventive;44.8;48729000;Completed;Team D;Brake Pad;16/02/2026
+02/02/2026;Feb;Platform Alpha;FRP-001;Fire Pump;Pump Priming Failure;Medium;Preventive;5.4;3181000;Completed;Team D;Motor Relay;27/02/2026
+02/02/2026;Feb;Platform Charlie;LFB-001;Lifeboat;Davits Inspection;Critical;Corrective;28.4;31625000;Completed;Team C;Safety Hook;28/02/2026
+02/02/2026;Feb;Platform Bravo;GEN-002;Generator;Battery Failure;Medium;Preventive;7.8;2930000;Completed;Team A;Alternator;20/03/2026
+02/02/2026;Feb;Platform Bravo;CTL-001;Control Panel;Wiring Issue;Low;Preventive;2.6;1127000;Completed;Team C;Relay;04/03/2026
+03/02/2026;Feb;Platform Charlie;CTL-001;Control Panel;Display Error;Medium;Preventive;5.4;1982000;Completed;Team A;Cable Set;01/04/2026
+03/02/2026;Feb;Platform Charlie;GEN-002;Generator;Battery Failure;Low;Preventive;2.4;1119000;In Progress;Team C;Cooling Fan;12/03/2026
+03/02/2026;Feb;Platform Charlie;FRP-001;Fire Pump;Valve Issue;Low;Preventive;1.6;749000;Completed;Team A;Pump Seal;28/03/2026
+04/02/2026;Feb;Platform Alpha;CRN-002;Crane;Brake System Issue;High;Corrective;15.1;13046000;Completed;Team A;Brake Pad;01/03/2026
+04/02/2026;Feb;Platform Charlie;PMP-001;Pump;Seal Leak;Medium;Corrective;9.8;6167000;Completed;Team D;Bearing;16/03/2026
+05/02/2026;Feb;Platform Charlie;PMP-001;Pump;Bearing Failure;Medium;Corrective;8.9;6117000;In Progress;Team C;Mechanical Seal;21/02/2026
+05/02/2026;Feb;Platform Bravo;DSL-001;Diesel Engine;Fuel Filter Clogged;High;Corrective;19.2;8456000;Completed;Team D;Fuel Filter;29/03/2026
+05/02/2026;Feb;Platform Alpha;HVC-001;HVAC;Fan Motor Issue;Low;Corrective;1.9;809000;In Progress;Team A;Blower Motor;26/03/2026
+07/02/2026;Feb;Platform Alpha;PMP-001;Pump;Bearing Failure;Medium;Preventive;6.0;4019000;Completed;Team A;Motor Relay;01/04/2026
+08/02/2026;Feb;Platform Alpha;CMP-002;Compressor;Pressure Drop;Low;Preventive;3.0;1403000;Completed;Team D;Oil Filter;25/02/2026
+08/02/2026;Feb;Platform Alpha;HVC-001;HVAC;Sensor Error;High;Corrective;12.6;5449000;Completed;Team C;Blower Motor;27/03/2026
+08/02/2026;Feb;Platform Alpha;CRN-002;Crane;Hydraulic Leak;Medium;Corrective;7.1;4711000;In Progress;Team D;Brake Pad;15/03/2026
+09/02/2026;Feb;Platform Alpha;HVC-001;HVAC;Fan Motor Issue;Medium;Corrective;9.5;5801000;Completed;Team C;Blower Motor;10/03/2026
+10/02/2026;Feb;Platform Alpha;CRN-002;Crane;Overload Alarm;Low;Preventive;1.4;751000;Completed;Team B;Limit Switch;25/03/2026
+10/02/2026;Feb;Platform Charlie;LFB-002;Lifeboat;Fuel Line Issue;Low;Corrective;3.0;1113000;In Progress;Team C;Safety Hook;16/03/2026
+12/02/2026;Feb;Platform Charlie;LFB-002;Lifeboat;Fuel Line Issue;High;Corrective;14.2;11489000;Pending;Team A;Battery;15/03/2026
+12/02/2026;Feb;Platform Bravo;FRP-001;Fire Pump;Motor Failure;High;Preventive;19.7;13448000;Completed;Team A;Valve Set;02/03/2026
+12/02/2026;Feb;Platform Charlie;DSL-002;Diesel Engine;Fuel Filter Clogged;High;Corrective;11.7;5163000;Completed;Team D;Radiator Hose;12/03/2026
+13/02/2026;Feb;Platform Bravo;PMP-001;Pump;Motor Trip;Medium;Corrective;5.9;2488000;Completed;Team C;Bearing;15/03/2026
+13/02/2026;Feb;Platform Bravo;SPR-002;Separator;Valve Leakage;Low;Corrective;2.0;572000;Completed;Team D;Level Sensor;27/03/2026
+13/02/2026;Feb;Platform Alpha;GEN-003;Generator;Overheating;High;Preventive;21.3;18867000;Pending;Team B;Fuel Filter;09/04/2026
+14/02/2026;Feb;Platform Alpha;SPR-002;Separator;Valve Leakage;Medium;Corrective;6.3;2863000;Completed;Team D;Level Sensor;15/04/2026
+14/02/2026;Feb;Platform Alpha;FRP-001;Fire Pump;Valve Issue;Low;Corrective;3.7;942000;Completed;Team C;Pump Seal;08/04/2026
+15/02/2026;Feb;Platform Bravo;CRN-002;Crane;Overload Alarm;Critical;Corrective;28.2;20384000;In Progress;Team A;Brake Pad;01/03/2026
+15/02/2026;Feb;Platform Alpha;FRP-002;Fire Pump;Valve Issue;Low;Corrective;1.2;481000;In Progress;Team B;Pump Seal;31/03/2026
+15/02/2026;Feb;Platform Charlie;SPR-002;Separator;Pressure Imbalance;High;Preventive;10.5;5049000;In Progress;Team C;Level Sensor;12/04/2026
+17/02/2026;Feb;Platform Bravo;GEN-003;Generator;Battery Failure;Critical;Corrective;36.5;33063000;Completed;Team A;Battery;27/03/2026
+19/02/2026;Feb;Platform Charlie;FRP-002;Fire Pump;Pump Priming Failure;High;Corrective;17.2;11616000;Pending;Team B;Pump Seal;17/03/2026
+22/02/2026;Feb;Platform Alpha;DSL-001;Diesel Engine;Cooling System Issue;Low;Preventive;3.8;1705000;Completed;Team D;Radiator Hose;19/03/2026
+24/02/2026;Feb;Platform Bravo;SPR-001;Separator;Clogging;High;Corrective;17.3;8992000;Completed;Team C;Level Sensor;21/04/2026
+24/02/2026;Feb;Platform Bravo;LFB-001;Lifeboat;Battery Weak;Medium;Preventive;6.6;2008000;Completed;Team B;Fuel Hose;17/03/2026
+24/02/2026;Feb;Platform Bravo;LFB-002;Lifeboat;Davits Inspection;Low;Corrective;1.6;667000;Completed;Team A;Safety Hook;15/03/2026
+25/02/2026;Feb;Platform Alpha;FRP-001;Fire Pump;Low Discharge Pressure;Critical;Preventive;31.0;16153000;Completed;Team A;Pressure Gauge;27/03/2026
+25/02/2026;Feb;Platform Bravo;HVC-001;HVAC;Sensor Error;Medium;Preventive;9.5;5576000;Completed;Team C;Temperature Sensor;16/04/2026
+25/02/2026;Feb;Platform Alpha;GEN-001;Generator;Fuel System Issue;Medium;Preventive;9.1;4779000;Completed;Team C;Battery;19/03/2026
+26/02/2026;Feb;Platform Charlie;CMP-002;Compressor;Pressure Drop;High;Corrective;22.4;13453000;In Progress;Team C;Air Filter;14/03/2026
+26/02/2026;Feb;Platform Alpha;LFB-002;Lifeboat;Engine Check;Medium;Preventive;8.4;3205000;Completed;Team A;Fuel Hose;02/04/2026
+27/02/2026;Feb;Platform Alpha;FRP-001;Fire Pump;Pump Priming Failure;Low;Preventive;2.8;1110000;Completed;Team B;Pump Seal;25/04/2026
+27/02/2026;Feb;Platform Bravo;SPR-001;Separator;Clogging;High;Corrective;23.9;14382000;Completed;Team A;Valve Seal;17/04/2026
+27/02/2026;Feb;Platform Charlie;CMP-001;Compressor;Air Leak;Low;Corrective;1.4;379000;Completed;Team B;Air Filter;22/04/2026
+28/02/2026;Feb;Platform Alpha;CRN-002;Crane;Overload Alarm;Low;Corrective;3.6;1720000;In Progress;Team D;Wire Rope;03/04/2026
+28/02/2026;Feb;Platform Alpha;SPR-001;Separator;Pressure Imbalance;Low;Corrective;1.3;521000;Pending;Team D;Valve Seal;25/03/2026
+02/03/2026;Mar;Platform Alpha;DSL-001;Diesel Engine;Oil Leak;Critical;Corrective;31.9;34148000;In Progress;Team C;Glow Plug;13/04/2026
+06/03/2026;Mar;Platform Alpha;CMP-002;Compressor;Pressure Drop;Medium;Preventive;6.9;4389000;Completed;Team B;Pressure Valve;26/04/2026
+06/03/2026;Mar;Platform Charlie;LFB-001;Lifeboat;Engine Check;Medium;Corrective;6.1;4025000;Completed;Team C;Safety Hook;29/03/2026
+06/03/2026;Mar;Platform Alpha;CRN-003;Crane;Overload Alarm;Medium;Preventive;6.5;3708000;In Progress;Team B;Wire Rope;07/04/2026
+06/03/2026;Mar;Platform Bravo;CRN-003;Crane;Wire Rope Wear;Medium;Corrective;9.8;6309000;Completed;Team D;Wire Rope;27/03/2026
+09/03/2026;Mar;Platform Bravo;HVC-002;HVAC;Sensor Error;Low;Preventive;2.9;1448000;Completed;Team A;Air Filter;06/05/2026
+09/03/2026;Mar;Platform Alpha;CTL-001;Control Panel;Wiring Issue;Medium;Corrective;8.8;3866000;In Progress;Team B;Relay;27/03/2026
+11/03/2026;Mar;Platform Bravo;LFB-001;Lifeboat;Fuel Line Issue;Critical;Preventive;29.3;25152000;In Progress;Team A;Battery;26/03/2026
+11/03/2026;Mar;Platform Bravo;CMP-001;Compressor;Pressure Drop;High;Corrective;19.8;9819000;Completed;Team C;Oil Filter;22/04/2026
+13/03/2026;Mar;Platform Alpha;LFB-002;Lifeboat;Battery Weak;Medium;Corrective;4.9;3273000;Pending;Team B;Engine Oil;07/05/2026
+13/03/2026;Mar;Platform Charlie;CTL-002;Control Panel;Electrical Fault;Low;Corrective;1.6;712000;Completed;Team D;Fuse;11/04/2026
+14/03/2026;Mar;Platform Charlie;DSL-001;Diesel Engine;Fuel Filter Clogged;Medium;Preventive;4.7;2272000;Completed;Team D;Oil Filter;08/05/2026
+14/03/2026;Mar;Platform Bravo;LFB-002;Lifeboat;Davits Inspection;High;Preventive;15.1;8611000;Completed;Team A;Battery;22/04/2026
+14/03/2026;Mar;Platform Charlie;HVC-002;HVAC;Fan Motor Issue;High;Corrective;14.5;6306000;Completed;Team D;Air Filter;02/05/2026
+15/03/2026;Mar;Platform Bravo;CTL-002;Control Panel;Display Error;Medium;Preventive;6.5;4188000;Completed;Team C;Relay;04/04/2026
+15/03/2026;Mar;Platform Alpha;FRP-002;Fire Pump;Low Discharge Pressure;Medium;Preventive;7.9;5430000;Completed;Team D;Valve Set;31/03/2026
+16/03/2026;Mar;Platform Bravo;HVC-002;HVAC;Cooling Failure;Medium;Preventive;8.3;4147000;Completed;Team C;Fan Belt;16/04/2026
+16/03/2026;Mar;Platform Charlie;CRN-002;Crane;Hydraulic Leak;Critical;Corrective;24.4;27009000;Completed;Team C;Wire Rope;11/04/2026
+16/03/2026;Mar;Platform Alpha;LFB-001;Lifeboat;Davits Inspection;Low;Corrective;2.9;1140000;Completed;Team B;Safety Hook;05/05/2026
+16/03/2026;Mar;Platform Charlie;CRN-002;Crane;Wire Rope Wear;Low;Corrective;1.6;882000;In Progress;Team A;Wire Rope;30/04/2026
+17/03/2026;Mar;Platform Bravo;PMP-001;Pump;Bearing Failure;Medium;Corrective;8.7;4887000;Completed;Team C;Bearing;13/05/2026
+17/03/2026;Mar;Platform Charlie;HVC-001;HVAC;Sensor Error;Critical;Corrective;47.3;33155000;Pending;Team A;Air Filter;11/04/2026
+17/03/2026;Mar;Platform Alpha;CMP-001;Compressor;Air Leak;Low;Corrective;1.9;857000;Pending;Team A;Pressure Valve;03/05/2026
+18/03/2026;Mar;Platform Charlie;PMP-003;Pump;Low Pressure;Medium;Corrective;4.0;2005000;In Progress;Team A;Motor Relay;09/04/2026
+18/03/2026;Mar;Platform Alpha;CRN-002;Crane;Brake System Issue;High;Preventive;13.9;6533000;In Progress;Team C;Wire Rope;16/04/2026
+20/03/2026;Mar;Platform Charlie;CTL-002;Control Panel;Wiring Issue;Medium;Preventive;4.4;2249000;Pending;Team D;Relay;05/05/2026
+20/03/2026;Mar;Platform Alpha;GEN-001;Generator;Fuel System Issue;Medium;Preventive;9.3;3484000;Completed;Team B;Cooling Fan;08/04/2026
+22/03/2026;Mar;Platform Charlie;GEN-003;Generator;Fuel System Issue;Low;Corrective;2.2;1197000;Completed;Team C;Fuel Filter;08/05/2026
+22/03/2026;Mar;Platform Bravo;DSL-001;Diesel Engine;Oil Leak;High;Corrective;18.5;12095000;Pending;Team C;Oil Filter;12/04/2026
+23/03/2026;Mar;Platform Bravo;LFB-002;Lifeboat;Davits Inspection;Low;Corrective;3.0;1198000;In Progress;Team B;Engine Oil;01/05/2026
+23/03/2026;Mar;Platform Charlie;GEN-001;Generator;Voltage Drop;Medium;Corrective;8.6;4923000;Completed;Team D;Cooling Fan;06/04/2026
+23/03/2026;Mar;Platform Bravo;PMP-003;Pump;Seal Leak;Medium;Preventive;7.5;3231000;Completed;Team A;Impeller;28/04/2026
+23/03/2026;Mar;Platform Alpha;PMP-002;Pump;Motor Trip;Medium;Preventive;9.1;4977000;Pending;Team A;Impeller;10/04/2026
+23/03/2026;Mar;Platform Alpha;LFB-002;Lifeboat;Fuel Line Issue;Medium;Preventive;4.7;2648000;Pending;Team D;Fuel Hose;27/04/2026
+23/03/2026;Mar;Platform Alpha;FRP-001;Fire Pump;Low Discharge Pressure;Critical;Preventive;39.6;44299000;Completed;Team B;Valve Set;14/04/2026
+24/03/2026;Mar;Platform Charlie;DSL-002;Diesel Engine;Fuel Filter Clogged;Low;Corrective;2.9;1197000;Pending;Team B;Oil Filter;24/04/2026
+24/03/2026;Mar;Platform Charlie;CRN-001;Crane;Wire Rope Wear;High;Corrective;22.5;14371000;Pending;Team D;Brake Pad;30/04/2026
+27/03/2026;Mar;Platform Alpha;PMP-003;Pump;Bearing Failure;High;Corrective;10.7;7292000;Completed;Team B;Bearing;17/04/2026
+27/03/2026;Mar;Platform Alpha;DSL-002;Diesel Engine;Hard Starting;High;Corrective;19.7;10272000;In Progress;Team D;Fuel Filter;01/05/2026
+28/03/2026;Mar;Platform Alpha;FRP-001;Fire Pump;Valve Issue;Medium;Preventive;5.4;2022000;Completed;Team B;Pressure Gauge;12/04/2026
+29/03/2026;Mar;Platform Alpha;CMP-002;Compressor;Vibration;High;Corrective;18.3;8288000;Completed;Team A;Pressure Valve;29/04/2026
+29/03/2026;Mar;Platform Bravo;PMP-002;Pump;Low Pressure;Medium;Corrective;7.3;2546000;Completed;Team A;Mechanical Seal;21/05/2026
+30/03/2026;Mar;Platform Alpha;HVC-001;HVAC;Fan Motor Issue;Medium;Preventive;5.0;2078000;Completed;Team A;Blower Motor;21/05/2026
+30/03/2026;Mar;Platform Bravo;FRP-002;Fire Pump;Pump Priming Failure;High;Corrective;15.0;8291000;Completed;Team A;Pump Seal;27/04/2026
+01/04/2026;Apr;Platform Bravo;DSL-002;Diesel Engine;Oil Leak;Critical;Corrective;38.6;26403000;Pending;Team A;Radiator Hose;29/04/2026
+01/04/2026;Apr;Platform Charlie;SPR-001;Separator;Level Sensor Error;Medium;Preventive;7.2;3244000;Completed;Team D;Filter Element;20/04/2026
+02/04/2026;Apr;Platform Bravo;CMP-002;Compressor;Air Leak;Low;Preventive;1.3;542000;Completed;Team D;Oil Filter;20/04/2026
+03/04/2026;Apr;Platform Bravo;HVC-001;HVAC;Filter Clogged;Critical;Preventive;24.9;13558000;Completed;Team D;Blower Motor;20/05/2026
+03/04/2026;Apr;Platform Charlie;SPR-001;Separator;Pressure Imbalance;High;Preventive;13.9;10101000;Completed;Team C;Level Sensor;22/05/2026
+03/04/2026;Apr;Platform Charlie;SPR-001;Separator;Clogging;Critical;Preventive;24.8;25612000;Completed;Team A;Level Sensor;16/05/2026
+03/04/2026;Apr;Platform Bravo;CMP-001;Compressor;Vibration;High;Corrective;19.9;9834000;Completed;Team A;Air Filter;30/05/2026
+05/04/2026;Apr;Platform Charlie;CTL-001;Control Panel;Sensor Failure;Medium;Corrective;4.7;2903000;Completed;Team D;Fuse;02/06/2026
+05/04/2026;Apr;Platform Charlie;CMP-002;Compressor;Oil Contamination;Medium;Corrective;4.8;2682000;Pending;Team B;Oil Filter;01/05/2026
+06/04/2026;Apr;Platform Charlie;PMP-003;Pump;Seal Leak;Medium;Preventive;5.5;3569000;Pending;Team A;Impeller;17/05/2026
+07/04/2026;Apr;Platform Alpha;HVC-001;HVAC;Filter Clogged;Low;Corrective;2.7;1093000;Completed;Team A;Temperature Sensor;06/06/2026
+07/04/2026;Apr;Platform Alpha;HVC-002;HVAC;Fan Motor Issue;Medium;Corrective;4.5;2689000;Completed;Team B;Fan Belt;24/04/2026
+08/04/2026;Apr;Platform Alpha;GEN-002;Generator;Battery Failure;High;Corrective;18.4;13901000;Completed;Team C;Alternator;16/05/2026
+08/04/2026;Apr;Platform Bravo;FRP-002;Fire Pump;Pump Priming Failure;High;Corrective;17.0;11130000;Completed;Team B;Pump Seal;23/04/2026
+09/04/2026;Apr;Platform Bravo;HVC-002;HVAC;Fan Motor Issue;Medium;Preventive;4.1;2384000;In Progress;Team A;Air Filter;03/06/2026
+09/04/2026;Apr;Platform Bravo;CTL-002;Control Panel;Sensor Failure;High;Corrective;13.3;11724000;Completed;Team D;Fuse;03/05/2026
+09/04/2026;Apr;Platform Charlie;CMP-002;Compressor;Oil Contamination;Medium;Corrective;4.8;1469000;Completed;Team B;Pressure Valve;16/05/2026
+09/04/2026;Apr;Platform Alpha;SPR-002;Separator;Clogging;Medium;Corrective;7.0;3894000;Completed;Team B;Filter Element;29/05/2026
+10/04/2026;Apr;Platform Charlie;CTL-001;Control Panel;Wiring Issue;Low;Preventive;1.9;1056000;Completed;Team B;Cable Set;20/05/2026
+11/04/2026;Apr;Platform Alpha;DSL-001;Diesel Engine;Cooling System Issue;Medium;Preventive;6.3;3998000;Completed;Team C;Glow Plug;28/05/2026
+11/04/2026;Apr;Platform Alpha;CTL-002;Control Panel;Display Error;High;Preventive;11.3;4535000;Completed;Team D;Cable Set;07/06/2026
+11/04/2026;Apr;Platform Alpha;CTL-001;Control Panel;Display Error;High;Corrective;17.8;7645000;Completed;Team D;Cable Set;22/05/2026
+12/04/2026;Apr;Platform Alpha;LFB-002;Lifeboat;Davits Inspection;Medium;Preventive;4.2;2077000;In Progress;Team D;Battery;19/05/2026
+12/04/2026;Apr;Platform Bravo;CMP-002;Compressor;Oil Contamination;Medium;Corrective;9.4;4340000;Completed;Team D;Bearing;28/05/2026
+12/04/2026;Apr;Platform Alpha;DSL-001;Diesel Engine;Cooling System Issue;Low;Preventive;3.0;800000;Completed;Team D;Oil Filter;29/04/2026
+12/04/2026;Apr;Platform Bravo;FRP-001;Fire Pump;Low Discharge Pressure;Critical;Corrective;26.0;12921000;Completed;Team C;Motor Relay;15/05/2026
+12/04/2026;Apr;Platform Charlie;SPR-002;Separator;Valve Leakage;Critical;Preventive;26.9;13548000;Completed;Team C;Filter Element;02/05/2026
+12/04/2026;Apr;Platform Charlie;LFB-001;Lifeboat;Davits Inspection;Low;Corrective;2.8;981000;Completed;Team D;Fuel Hose;23/05/2026
+13/04/2026;Apr;Platform Charlie;LFB-002;Lifeboat;Davits Inspection;Medium;Corrective;5.5;3147000;Completed;Team D;Fuel Hose;02/05/2026
+13/04/2026;Apr;Platform Alpha;FRP-001;Fire Pump;Motor Failure;Low;Preventive;3.4;1737000;Completed;Team C;Valve Set;05/05/2026
+13/04/2026;Apr;Platform Alpha;PMP-002;Pump;Seal Leak;Low;Preventive;3.3;1414000;Completed;Team C;Impeller;03/05/2026
+13/04/2026;Apr;Platform Charlie;FRP-002;Fire Pump;Pump Priming Failure;Low;Preventive;1.6;398000;Completed;Team B;Valve Set;11/05/2026
+13/04/2026;Apr;Platform Bravo;CRN-003;Crane;Wire Rope Wear;Medium;Preventive;7.8;4402000;Completed;Team A;Wire Rope;01/06/2026
+14/04/2026;Apr;Platform Alpha;LFB-001;Lifeboat;Engine Check;Low;Corrective;3.4;989000;Completed;Team B;Safety Hook;12/05/2026
+15/04/2026;Apr;Platform Alpha;PMP-002;Pump;Motor Trip;High;Corrective;18.9;10274000;Completed;Team D;Bearing;13/06/2026
+15/04/2026;Apr;Platform Bravo;GEN-003;Generator;Battery Failure;Medium;Corrective;6.2;2250000;Completed;Team A;Fuel Filter;11/06/2026
+16/04/2026;Apr;Platform Bravo;CRN-001;Crane;Brake System Issue;Medium;Corrective;8.9;3620000;Completed;Team D;Limit Switch;08/05/2026
+16/04/2026;Apr;Platform Bravo;FRP-002;Fire Pump;Low Discharge Pressure;Low;Corrective;1.7;521000;Completed;Team B;Pressure Gauge;30/05/2026
+18/04/2026;Apr;Platform Charlie;CTL-001;Control Panel;Wiring Issue;Low;Corrective;2.5;1327000;Pending;Team B;Cable Set;13/05/2026
+19/04/2026;Apr;Platform Charlie;HVC-002;HVAC;Cooling Failure;Low;Corrective;2.3;657000;Completed;Team D;Air Filter;15/05/2026
+20/04/2026;Apr;Platform Alpha;SPR-002;Separator;Pressure Imbalance;Medium;Preventive;9.6;3588000;Completed;Team C;Filter Element;19/05/2026
+20/04/2026;Apr;Platform Bravo;FRP-002;Fire Pump;Motor Failure;Medium;Corrective;9.4;3270000;In Progress;Team A;Pressure Gauge;09/05/2026
+21/04/2026;Apr;Platform Charlie;PMP-003;Pump;Motor Trip;Low;Preventive;1.9;607000;Completed;Team C;Bearing;09/06/2026
+21/04/2026;Apr;Platform Bravo;LFB-002;Lifeboat;Engine Check;Low;Corrective;1.7;834000;Completed;Team A;Battery;25/05/2026
+22/04/2026;Apr;Platform Alpha;CRN-003;Crane;Wire Rope Wear;Medium;Corrective;5.8;2744000;Completed;Team C;Wire Rope;17/06/2026
+22/04/2026;Apr;Platform Alpha;FRP-001;Fire Pump;Low Discharge Pressure;Low;Corrective;1.3;621000;Completed;Team C;Pressure Gauge;08/05/2026
+22/04/2026;Apr;Platform Bravo;PMP-001;Pump;Bearing Failure;High;Corrective;19.8;13025000;Completed;Team D;Impeller;26/05/2026
+23/04/2026;Apr;Platform Charlie;GEN-003;Generator;Overheating;High;Corrective;23.8;9702000;Completed;Team A;Cooling Fan;19/06/2026
+23/04/2026;Apr;Platform Bravo;FRP-002;Fire Pump;Valve Issue;Medium;Corrective;8.5;3445000;Completed;Team C;Pump Seal;18/05/2026
+24/04/2026;Apr;Platform Charlie;CMP-002;Compressor;Pressure Drop;Low;Corrective;2.3;1149000;Completed;Team C;Air Filter;23/05/2026
+24/04/2026;Apr;Platform Bravo;CTL-002;Control Panel;Wiring Issue;High;Corrective;22.7;12863000;In Progress;Team D;Fuse;17/06/2026
+25/04/2026;Apr;Platform Alpha;PMP-001;Pump;Low Pressure;Low;Preventive;2.6;1369000;Completed;Team C;Bearing;18/06/2026
+26/04/2026;Apr;Platform Bravo;CMP-002;Compressor;Vibration;Low;Corrective;1.3;411000;Completed;Team C;Pressure Valve;01/06/2026
+27/04/2026;Apr;Platform Bravo;DSL-001;Diesel Engine;Hard Starting;Low;Preventive;3.2;1250000;Completed;Team A;Glow Plug;24/06/2026
+27/04/2026;Apr;Platform Charlie;LFB-002;Lifeboat;Engine Check;High;Corrective;23.4;19718000;Completed;Team D;Battery;15/05/2026
+27/04/2026;Apr;Platform Bravo;SPR-001;Separator;Clogging;Critical;Corrective;42.5;25267000;In Progress;Team C;Level Sensor;28/05/2026
+28/04/2026;Apr;Platform Charlie;FRP-001;Fire Pump;Low Discharge Pressure;Medium;Corrective;8.7;3066000;Completed;Team C;Motor Relay;25/05/2026
+28/04/2026;Apr;Platform Bravo;FRP-002;Fire Pump;Valve Issue;Low;Preventive;3.8;1435000;Completed;Team C;Pressure Gauge;16/05/2026
+28/04/2026;Apr;Platform Bravo;CRN-002;Crane;Wire Rope Wear;High;Corrective;23.6;14280000;Pending;Team D;Hydraulic Hose;13/06/2026
+29/04/2026;Apr;Platform Bravo;GEN-003;Generator;Fuel System Issue;Critical;Preventive;41.5;44477000;Completed;Team B;Cooling Fan;12/06/2026
+29/04/2026;Apr;Platform Alpha;CTL-001;Control Panel;Wiring Issue;Medium;Corrective;8.8;3336000;Pending;Team C;Fuse;10/06/2026
+30/04/2026;Apr;Platform Bravo;SPR-001;Separator;Pressure Imbalance;Medium;Corrective;9.4;6363000;Completed;Team A;Valve Seal;09/06/2026
+02/05/2026;May;Platform Alpha;DSL-001;Diesel Engine;Hard Starting;Medium;Corrective;4.8;2878000;Completed;Team A;Oil Filter;24/06/2026
+03/05/2026;May;Platform Alpha;CMP-002;Compressor;Oil Contamination;Low;Preventive;3.2;1763000;Completed;Team B;Air Filter;16/06/2026
+03/05/2026;May;Platform Alpha;GEN-001;Generator;Voltage Drop;High;Preventive;23.5;14184000;Completed;Team D;Battery;05/06/2026
+04/05/2026;May;Platform Bravo;GEN-002;Generator;Voltage Drop;Low;Corrective;1.8;539000;Completed;Team B;Battery;08/06/2026
+05/05/2026;May;Platform Alpha;CMP-002;Compressor;Vibration;Low;Preventive;2.6;1365000;In Progress;Team D;Bearing;04/07/2026
+06/05/2026;May;Platform Alpha;DSL-001;Diesel Engine;Cooling System Issue;High;Corrective;18.1;11488000;Pending;Team B;Radiator Hose;20/06/2026
+06/05/2026;May;Platform Charlie;LFB-002;Lifeboat;Battery Weak;Low;Corrective;2.9;1290000;Completed;Team A;Engine Oil;23/06/2026
+07/05/2026;May;Platform Charlie;PMP-001;Pump;Low Pressure;Low;Preventive;1.7;463000;Completed;Team D;Motor Relay;05/06/2026
+08/05/2026;May;Platform Charlie;LFB-002;Lifeboat;Engine Check;High;Preventive;18.0;8950000;Completed;Team A;Safety Hook;28/05/2026
+08/05/2026;May;Platform Alpha;DSL-002;Diesel Engine;Oil Leak;Critical;Corrective;41.5;28300000;Completed;Team A;Oil Filter;13/06/2026
+08/05/2026;May;Platform Alpha;HVC-002;HVAC;Cooling Failure;Low;Preventive;2.5;809000;Completed;Team A;Air Filter;24/06/2026
+09/05/2026;May;Platform Bravo;FRP-001;Fire Pump;Low Discharge Pressure;Low;Preventive;1.5;741000;In Progress;Team C;Motor Relay;30/06/2026
+09/05/2026;May;Platform Bravo;CRN-001;Crane;Wire Rope Wear;Low;Preventive;1.4;753000;Completed;Team A;Wire Rope;25/06/2026
+10/05/2026;May;Platform Bravo;DSL-001;Diesel Engine;Fuel Filter Clogged;High;Corrective;11.0;9238000;Completed;Team D;Radiator Hose;02/06/2026
+10/05/2026;May;Platform Alpha;LFB-002;Lifeboat;Engine Check;Medium;Preventive;5.0;2895000;Completed;Team C;Safety Hook;24/05/2026
+10/05/2026;May;Platform Charlie;DSL-002;Diesel Engine;Fuel Filter Clogged;Medium;Corrective;4.6;1843000;Completed;Team B;Glow Plug;17/06/2026
+11/05/2026;May;Platform Bravo;SPR-001;Separator;Clogging;Medium;Corrective;6.2;3773000;Completed;Team A;Pressure Gauge;03/06/2026
+11/05/2026;May;Platform Alpha;GEN-001;Generator;Overheating;Medium;Preventive;6.2;2250000;Pending;Team A;Battery;30/06/2026
+11/05/2026;May;Platform Bravo;LFB-001;Lifeboat;Fuel Line Issue;Medium;Corrective;5.5;1816000;Completed;Team A;Fuel Hose;07/07/2026
+14/05/2026;May;Platform Charlie;LFB-002;Lifeboat;Fuel Line Issue;Medium;Corrective;5.5;2570000;Completed;Team A;Battery;30/05/2026
+14/05/2026;May;Platform Charlie;HVC-002;HVAC;Sensor Error;Medium;Corrective;8.4;5326000;In Progress;Team A;Air Filter;01/06/2026
+15/05/2026;May;Platform Alpha;CRN-001;Crane;Hydraulic Leak;Medium;Corrective;4.5;1896000;Completed;Team B;Hydraulic Hose;07/06/2026
+17/05/2026;May;Platform Bravo;CMP-002;Compressor;Air Leak;High;Preventive;21.3;8579000;Completed;Team D;Bearing;04/06/2026
+17/05/2026;May;Platform Bravo;CRN-001;Crane;Overload Alarm;Critical;Corrective;39.6;24779000;Completed;Team C;Wire Rope;07/07/2026
+17/05/2026;May;Platform Alpha;SPR-002;Separator;Pressure Imbalance;High;Corrective;18.0;14305000;Completed;Team B;Pressure Gauge;05/06/2026
+17/05/2026;May;Platform Bravo;CMP-001;Compressor;Vibration;Low;Corrective;1.2;634000;Completed;Team A;Bearing;13/07/2026
+17/05/2026;May;Platform Charlie;HVC-002;HVAC;Cooling Failure;Low;Preventive;2.8;1248000;Completed;Team D;Temperature Sensor;23/06/2026
+18/05/2026;May;Platform Charlie;CMP-001;Compressor;Air Leak;Medium;Preventive;9.5;5660000;Completed;Team B;Bearing;06/07/2026
+18/05/2026;May;Platform Charlie;DSL-001;Diesel Engine;Hard Starting;Low;Preventive;3.7;1119000;Completed;Team C;Fuel Filter;10/07/2026
+18/05/2026;May;Platform Alpha;PMP-002;Pump;Motor Trip;Medium;Corrective;8.6;5016000;Completed;Team D;Impeller;17/07/2026
+18/05/2026;May;Platform Charlie;CMP-001;Compressor;Oil Contamination;Medium;Corrective;6.1;2063000;Completed;Team B;Bearing;08/07/2026
+19/05/2026;May;Platform Alpha;CRN-002;Crane;Wire Rope Wear;High;Corrective;23.6;21336000;Completed;Team A;Hydraulic Hose;17/06/2026
+20/05/2026;May;Platform Charlie;CRN-002;Crane;Wire Rope Wear;Low;Preventive;2.8;719000;In Progress;Team B;Limit Switch;16/06/2026
+20/05/2026;May;Platform Bravo;CTL-001;Control Panel;Sensor Failure;Low;Preventive;3.0;901000;In Progress;Team A;Sensor Module;18/07/2026
+22/05/2026;May;Platform Charlie;SPR-002;Separator;Clogging;Medium;Corrective;6.0;2765000;Completed;Team B;Pressure Gauge;12/06/2026
+23/05/2026;May;Platform Bravo;CTL-001;Control Panel;Wiring Issue;Low;Preventive;3.7;1886000;Completed;Team D;Cable Set;09/07/2026
+23/05/2026;May;Platform Bravo;FRP-001;Fire Pump;Pump Priming Failure;Low;Preventive;3.1;1223000;Completed;Team D;Valve Set;19/07/2026
+24/05/2026;May;Platform Alpha;DSL-001;Diesel Engine;Oil Leak;Low;Corrective;2.5;1157000;Completed;Team A;Fuel Filter;21/06/2026
+25/05/2026;May;Platform Charlie;CTL-002;Control Panel;Display Error;Low;Preventive;3.7;1574000;Completed;Team A;Sensor Module;25/06/2026
+26/05/2026;May;Platform Alpha;CRN-001;Crane;Brake System Issue;Medium;Preventive;4.6;2577000;Completed;Team C;Brake Pad;13/06/2026
+26/05/2026;May;Platform Charlie;CTL-001;Control Panel;Electrical Fault;Medium;Preventive;7.3;2501000;Completed;Team A;Fuse;20/06/2026
+27/05/2026;May;Platform Bravo;HVC-002;HVAC;Fan Motor Issue;Medium;Corrective;7.8;3043000;In Progress;Team C;Air Filter;19/07/2026
+27/05/2026;May;Platform Charlie;GEN-002;Generator;Battery Failure;High;Preventive;20.1;10833000;Pending;Team B;Battery;16/06/2026
+27/05/2026;May;Platform Bravo;SPR-001;Separator;Valve Leakage;High;Preventive;22.3;19037000;Completed;Team A;Pressure Gauge;17/07/2026
+28/05/2026;May;Platform Bravo;CTL-002;Control Panel;Sensor Failure;High;Corrective;22.6;16843000;Completed;Team A;Sensor Module;30/06/2026
+30/05/2026;May;Platform Alpha;DSL-001;Diesel Engine;Hard Starting;Critical;Corrective;44.0;42471000;Completed;Team D;Radiator Hose;29/07/2026
+31/05/2026;May;Platform Charlie;GEN-002;Generator;Battery Failure;Low;Preventive;2.0;846000;In Progress;Team C;Alternator;15/07/2026
+01/06/2026;Jun;Platform Bravo;CRN-003;Crane;Brake System Issue;Medium;Preventive;8.2;4576000;Completed;Team A;Brake Pad;26/06/2026
+02/06/2026;Jun;Platform Bravo;HVC-002;HVAC;Fan Motor Issue;Medium;Corrective;8.9;4467000;In Progress;Team A;Blower Motor;28/06/2026
+02/06/2026;Jun;Platform Alpha;CRN-002;Crane;Wire Rope Wear;Medium;Corrective;4.2;1502000;Completed;Team A;Brake Pad;17/06/2026
+02/06/2026;Jun;Platform Bravo;CTL-001;Control Panel;Wiring Issue;Low;Preventive;2.0;812000;Completed;Team C;Relay;25/07/2026
+05/06/2026;Jun;Platform Bravo;CTL-001;Control Panel;Sensor Failure;Low;Preventive;3.8;1409000;Completed;Team B;Sensor Module;13/07/2026
+06/06/2026;Jun;Platform Charlie;HVC-001;HVAC;Filter Clogged;High;Corrective;10.3;8019000;Completed;Team B;Fan Belt;07/07/2026
+06/06/2026;Jun;Platform Bravo;CTL-001;Control Panel;Display Error;Low;Corrective;3.8;2030000;Completed;Team C;Fuse;21/07/2026
+06/06/2026;Jun;Platform Alpha;LFB-001;Lifeboat;Battery Weak;Medium;Preventive;7.5;3420000;In Progress;Team D;Engine Oil;04/08/2026
+07/06/2026;Jun;Platform Bravo;CTL-002;Control Panel;Wiring Issue;Medium;Preventive;8.1;4893000;Completed;Team D;Relay;11/07/2026
+08/06/2026;Jun;Platform Charlie;GEN-002;Generator;Battery Failure;Low;Corrective;2.4;816000;Completed;Team C;Alternator;30/06/2026
+08/06/2026;Jun;Platform Alpha;CRN-003;Crane;Hydraulic Leak;Medium;Preventive;5.7;3524000;Completed;Team A;Wire Rope;09/07/2026
+08/06/2026;Jun;Platform Alpha;CRN-002;Crane;Brake System Issue;Medium;Corrective;5.5;3625000;Completed;Team A;Wire Rope;21/07/2026
+08/06/2026;Jun;Platform Charlie;PMP-003;Pump;Motor Trip;Low;Corrective;3.6;1807000;In Progress;Team D;Bearing;02/07/2026
+09/06/2026;Jun;Platform Bravo;PMP-001;Pump;Low Pressure;Medium;Corrective;8.7;3604000;Completed;Team B;Motor Relay;09/07/2026
+10/06/2026;Jun;Platform Charlie;HVC-002;HVAC;Sensor Error;Medium;Corrective;9.6;3349000;Completed;Team C;Air Filter;11/07/2026
+10/06/2026;Jun;Platform Alpha;CTL-002;Control Panel;Sensor Failure;Low;Preventive;1.5;542000;Pending;Team D;Relay;08/07/2026
+10/06/2026;Jun;Platform Alpha;CMP-002;Compressor;Vibration;High;Preventive;13.6;8417000;Completed;Team B;Air Filter;28/07/2026
+10/06/2026;Jun;Platform Bravo;DSL-001;Diesel Engine;Cooling System Issue;High;Corrective;21.7;16307000;Pending;Team D;Radiator Hose;01/08/2026
+11/06/2026;Jun;Platform Bravo;PMP-001;Pump;Motor Trip;Low;Corrective;2.2;710000;Completed;Team A;Motor Relay;22/07/2026
+12/06/2026;Jun;Platform Alpha;LFB-002;Lifeboat;Fuel Line Issue;Low;Corrective;2.7;993000;Pending;Team B;Battery;03/07/2026
+12/06/2026;Jun;Platform Alpha;HVC-002;HVAC;Fan Motor Issue;Medium;Preventive;8.2;3497000;Completed;Team C;Air Filter;05/08/2026
+13/06/2026;Jun;Platform Alpha;FRP-001;Fire Pump;Valve Issue;Low;Corrective;3.3;1569000;Completed;Team A;Motor Relay;05/08/2026
+13/06/2026;Jun;Platform Alpha;GEN-001;Generator;Battery Failure;Low;Corrective;2.1;1100000;Completed;Team D;Fuel Filter;31/07/2026
+14/06/2026;Jun;Platform Alpha;SPR-002;Separator;Level Sensor Error;Low;Corrective;3.9;1228000;Completed;Team A;Valve Seal;14/07/2026
+15/06/2026;Jun;Platform Charlie;DSL-001;Diesel Engine;Oil Leak;High;Corrective;15.4;13955000;Completed;Team D;Radiator Hose;07/08/2026
+15/06/2026;Jun;Platform Alpha;HVC-002;HVAC;Cooling Failure;Medium;Corrective;6.6;3162000;Pending;Team B;Temperature Sensor;30/07/2026
+15/06/2026;Jun;Platform Charlie;GEN-001;Generator;Battery Failure;High;Corrective;14.1;8398000;Completed;Team B;Battery;06/08/2026
+15/06/2026;Jun;Platform Bravo;LFB-002;Lifeboat;Engine Check;Low;Preventive;1.1;376000;Completed;Team D;Battery;05/08/2026
+16/06/2026;Jun;Platform Charlie;GEN-002;Generator;Voltage Drop;Medium;Corrective;7.7;4280000;In Progress;Team A;Alternator;02/07/2026
+16/06/2026;Jun;Platform Alpha;SPR-001;Separator;Pressure Imbalance;Low;Corrective;2.8;923000;In Progress;Team D;Level Sensor;03/07/2026
+17/06/2026;Jun;Platform Bravo;GEN-002;Generator;Voltage Drop;Low;Preventive;2.5;1065000;Completed;Team A;Alternator;16/07/2026
+17/06/2026;Jun;Platform Alpha;CRN-001;Crane;Overload Alarm;Medium;Corrective;4.1;2599000;Completed;Team D;Limit Switch;11/07/2026
+17/06/2026;Jun;Platform Alpha;SPR-001;Separator;Clogging;High;Preventive;17.1;11954000;Completed;Team C;Filter Element;16/08/2026
+18/06/2026;Jun;Platform Charlie;CTL-002;Control Panel;Electrical Fault;Low;Corrective;4.0;1928000;Completed;Team D;Relay;15/07/2026
+18/06/2026;Jun;Platform Bravo;FRP-001;Fire Pump;Low Discharge Pressure;Critical;Preventive;26.2;22037000;Completed;Team B;Motor Relay;08/07/2026
+18/06/2026;Jun;Platform Charlie;HVC-002;HVAC;Cooling Failure;High;Corrective;18.9;11058000;In Progress;Team C;Air Filter;16/07/2026
+19/06/2026;Jun;Platform Alpha;DSL-002;Diesel Engine;Cooling System Issue;Low;Corrective;2.8;1249000;Completed;Team D;Oil Filter;26/07/2026
+19/06/2026;Jun;Platform Charlie;LFB-002;Lifeboat;Davits Inspection;Medium;Corrective;4.2;2463000;Completed;Team C;Fuel Hose;18/08/2026
+19/06/2026;Jun;Platform Charlie;HVC-001;HVAC;Sensor Error;Medium;Preventive;4.0;2048000;In Progress;Team D;Air Filter;03/07/2026
+20/06/2026;Jun;Platform Bravo;SPR-002;Separator;Pressure Imbalance;Low;Corrective;2.5;1378000;Completed;Team B;Level Sensor;21/07/2026
+20/06/2026;Jun;Platform Charlie;CRN-002;Crane;Brake System Issue;Low;Corrective;2.0;973000;Completed;Team C;Brake Pad;31/07/2026
+20/06/2026;Jun;Platform Bravo;GEN-002;Generator;Voltage Drop;Critical;Preventive;28.1;17318000;Pending;Team A;Fuel Filter;15/07/2026
+20/06/2026;Jun;Platform Alpha;PMP-001;Pump;Motor Trip;High;Corrective;23.0;15699000;Completed;Team A;Impeller;18/08/2026
+22/06/2026;Jun;Platform Bravo;DSL-001;Diesel Engine;Cooling System Issue;Medium;Preventive;8.6;3834000;Completed;Team D;Glow Plug;12/08/2026
+22/06/2026;Jun;Platform Charlie;DSL-001;Diesel Engine;Cooling System Issue;Low;Preventive;3.4;1077000;Completed;Team D;Radiator Hose;15/07/2026
+24/06/2026;Jun;Platform Charlie;FRP-002;Fire Pump;Low Discharge Pressure;High;Corrective;10.7;9364000;Completed;Team B;Pump Seal;21/08/2026
+24/06/2026;Jun;Platform Bravo;CRN-001;Crane;Hydraulic Leak;Low;Corrective;2.1;643000;Completed;Team B;Limit Switch;08/07/2026
+24/06/2026;Jun;Platform Charlie;SPR-001;Separator;Clogging;Medium;Preventive;9.1;6036000;Completed;Team D;Level Sensor;03/08/2026
+25/06/2026;Jun;Platform Charlie;FRP-002;Fire Pump;Low Discharge Pressure;Low;Corrective;2.6;1120000;Completed;Team A;Motor Relay;22/07/2026
+26/06/2026;Jun;Platform Alpha;PMP-003;Pump;Bearing Failure;High;Corrective;10.2;4627000;Completed;Team C;Bearing;26/07/2026
+28/06/2026;Jun;Platform Alpha;LFB-001;Lifeboat;Engine Check;High;Preventive;19.9;7946000;Completed;Team A;Fuel Hose;17/07/2026
+28/06/2026;Jun;Platform Bravo;HVC-002;HVAC;Sensor Error;Low;Corrective;2.5;1387000;In Progress;Team B;Fan Belt;18/07/2026
+28/06/2026;Jun;Platform Alpha;PMP-003;Pump;Motor Trip;High;Corrective;21.6;15334000;Completed;Team A;Mechanical Seal;02/08/2026
+29/06/2026;Jun;Platform Charlie;HVC-001;HVAC;Filter Clogged;Low;Preventive;1.5;488000;Pending;Team C;Temperature Sensor;22/07/2026
+29/06/2026;Jun;Platform Charlie;PMP-001;Pump;Low Pressure;High;Corrective;12.5;10636000;Completed;Team C;Impeller;22/07/2026
+30/06/2026;Jun;Platform Alpha;CMP-001;Compressor;Oil Contamination;Medium;Corrective;9.4;5466000;Completed;Team D;Air Filter;03/08/2026
+30/06/2026;Jun;Platform Bravo;LFB-001;Lifeboat;Davits Inspection;Low;Preventive;2.5;678000;Completed;Team A;Safety Hook;28/08/2026
